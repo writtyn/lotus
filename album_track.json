@@ -1,5 +1,5 @@
 {
-    "version": "2026.0419",
+    "version": "2026.0507",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -361,6 +361,9 @@
         "TYPE SHIT": "Type Shit",
         "YOUNG METRO": "Young Metro"
     },
+    "Georg Friedrich Händel": {
+        "HANDEL: Messiah": "Handel: Messiah"
+    },
     "glaive": {
         "17250 (V2)": "17250 (v2)",
         "A Date w Karma (V1)": "a date w karma (v1)",
@@ -371,6 +374,7 @@
         "everydog has its day": "EVERYDOG HAS ITS DAY",
         "for god and country": "For God and Country",
         "fuck": "Fuck",
+        "God Save The Three": "God Save the Three",
         "Hate 2 See U Cry": "hate 2 see u cry",
         "Huh": "huh",
         "knock, draw, release": "Knock, Draw, Release",
@@ -384,10 +388,12 @@
         "Shoreditch (Bsun N Thr6x Remix)": "shoreditch (bsun n thr6x remix)",
         "Stay + Love Story (Cover)": "stay + love story (cover)",
         "SYNOPSIS (demo)": "synopsis (demo)",
+        "the band": "The Band",
         "veni vidi vici": "Veni Vidi Vici",
         "we don't leave the house": "We Don't Leave the House",
         "y’all": "Y’all"
     },
+    
     "glume & phossa": {
         "banshee": "Banshee"
     },
@@ -478,6 +484,9 @@
         "Shipwrecks": "SHIPWRECKS",
         "The Fifth World": "THE FIFTH WORLD",
         "waves": "WAVES"
+    },
+    "iyowa": {
+        "Take You to an Alien (feat. Sekai)": "Take you to an alien (feat. SEKAI)"
     },
     "jade": {
         "Angel of My Dreams": "Angel Of My Dreams",
@@ -574,6 +583,9 @@
     "kevinkempt": {
         "Keep Going": "KEEP GOING"
     },
+    "kevin atwater": {
+        "achilles": "Achilles"
+    },
     "king crimson": {
         "Epitaph - Including \"March For No Reason\" And \"Tomorrow And Tomorrow\"": "Epitaph - Including \"March for No Reason\" and \"Tomorrow and Tomorrow\"",
         "Moonchild - Including \"The Dream\" And \"The Illusion\"": "Moonchild - Including \"The Dream\" and \"The Illusion\""
@@ -619,6 +631,9 @@
     },
     "lady gaga, ariana grande": {
         "Rain on Me": "Rain On Me"
+    },
+    "le sserafim": {
+        "'pureflow', pt. 1": "'PUREFLOW', Pt. 1"
     },
     "leroy": {
         "dariacore": "Dariacore"
@@ -730,6 +745,9 @@
         "The Ghost Of You - 2025 Mix": "The Ghost of You - 2025 Mix",
         "To The End - 2025 Mix": "To the End - 2025 Mix",
         "You Know What They Do To Guys Like Us In Prison - 2025 Mix": "You Know What They Do to Guys Like Us in Prison - 2025 Mix"
+    },
+    "nævis": {
+        "sEnSiTiVe - sInGlE": "Sensitive - Single"
     },
     "nathalie cardone": {
         "Working class": "Working Class"
@@ -1070,6 +1088,9 @@
         "Solemn Epiphany": "SOLEMN EPIPHANY",
         "Systematic Dehumanization Propaganda": "SYSTEMATIC DEHUMIZATION PROPAGANDA",
         "Unequivocally Humorless": "UNEQUIVOCALLY HUMORLESS"
+    },
+    "sumire uesaka": {
+        "Pop Team Epic": "POP TEAM EPIC"
     },
     "swans": {
         "No More Of This": "No More of This"
