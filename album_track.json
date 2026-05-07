@@ -10,6 +10,7 @@
     },
     "2hollis": {
         "Afraid (feat. Nate Sib)": "afraid (feat. nate sib)",
+        "IM PLAYIN MINECRAFT ITS 2AM": "im playin minecraft its 2am",
         "TEENAGE SOLDIER": "teenage soldier"
     },
     "621 gecs": {
@@ -94,6 +95,9 @@
         "Waking The Fallen: Resurrected": "Waking the Fallen: Resurrected",
         "Welcome To The Family": "Welcome to the Family"
     },
+    "ayase": {
+        "Last Resort": "last resort"
+    },
     "bad brains": {
         "I Against I": "i against i"
     },
@@ -151,8 +155,10 @@
         "waves of sound across oceans of time": "Waves of Sound Across Oceans of Time"
     },
     "brakence": {
+        "Cut You Off": "cut you off",
         "Drank 3 of My Parents' Craft Beers To Make Eye Contact With You (feat. Login)": "drank 3 of my parents' craft beers to make eye contact with you (feat. login)",
         "Hypochondriac (Demo)": "hypochondriac (demo)",
+        "hypochondriac (sessions": "hypochondriac (Sessions",
         "Introvert": "introvert",
         "tonight's no good how about wednesday oh you're in dallas on wednesday oh ok well then let's just not see each other for 8 months and It doesn't matter at all": "tonight's no good how about wednesday oh you're in dallas on wednesday oh ok well then let's just not see each other for 8 months and it doesn't matter at all"
     },
@@ -331,9 +337,17 @@
     "fifty fifty": {
         "LOVE TUNE": "Love Tune"
     },
+    "filth of mankind": {
+        "obłędna rzeczywistość": "Obłędna rzeczywistość",
+        "poszanowanie różnorodności": "Poszanowanie różnorodności"
+    },
     "food house": {
         "Food House": "food house",
         "Two House": "two house"
+    },
+    "franz ferdinand": {
+        "This Fffire": "This fffire",
+        "This fffire - new version": "This fffire - New Version"
     },
     "fred nevché & french 79": {
         "THE UNREAL STORY OF LOU REED (Instrumental)": "The Unreal Story of Lou Reed (Instrumental)"
@@ -361,7 +375,10 @@
         "TYPE SHIT": "Type Shit",
         "YOUNG METRO": "Young Metro"
     },
-    "Georg Friedrich Händel": {
+    "gary numan": {
+        "intruder": "Intruder"
+    },
+    "georg friedrich händel": {
         "HANDEL: Messiah": "Handel: Messiah"
     },
     "glaive": {
@@ -393,7 +410,6 @@
         "we don't leave the house": "We Don't Leave the House",
         "y’all": "Y’all"
     },
-    
     "glume & phossa": {
         "banshee": "Banshee"
     },
@@ -488,6 +504,9 @@
     "iyowa": {
         "Take You to an Alien (feat. Sekai)": "Take you to an alien (feat. SEKAI)"
     },
+    "izna": {
+        "n/A - eP": "N/a - EP"
+    },
     "jade": {
         "Angel of My Dreams": "Angel Of My Dreams",
         "cHuRcH": "Church",
@@ -580,11 +599,11 @@
         "MORE CHAOS": "more chaos",
         "Overseas": "overseas"
     },
+    "Kevin Atwater": {
+        "achilles": "Achilles"
+    },
     "kevinkempt": {
         "Keep Going": "KEEP GOING"
-    },
-    "kevin atwater": {
-        "achilles": "Achilles"
     },
     "king crimson": {
         "Epitaph - Including \"March For No Reason\" And \"Tomorrow And Tomorrow\"": "Epitaph - Including \"March for No Reason\" and \"Tomorrow and Tomorrow\"",
@@ -632,9 +651,6 @@
     "lady gaga, ariana grande": {
         "Rain on Me": "Rain On Me"
     },
-    "le sserafim": {
-        "'pureflow', pt. 1": "'PUREFLOW', Pt. 1"
-    },
     "leroy": {
         "dariacore": "Dariacore"
     },
@@ -642,6 +658,14 @@
         "Highball With The Devil": "Highball with the Devil",
         "Me And Chuck": "Me and Chuck",
         "Running The Gauntlet": "Running the Gauntlet"
+    },
+    "le sserafim": {
+        "'pureflow', pt. 1": "'PUREFLOW', Pt. 1"
+    },
+    "liam gallagher": {
+        "Doesn't Have To Be That Way": "Doesn't Have to Be That Way",
+        "Wall Of Glass": "Wall of Glass",
+        "When I'm In Need": "When I'm in Need"
     },
     "linkin park": {
         "Burn It Down": "BURN IT DOWN",
@@ -755,6 +779,10 @@
     "nelly furtado": {
         "Loose (expanded edition)": "Loose (Expanded Edition)"
     },
+    "ninajirachi": {
+        "Girl EDM": "girl EDM",
+        "Hand On My Heart": "Hand on my Heart"
+    },
     "nirvana": {
         "about a girl - live": "About A Girl - Live",
         "about a girl - live in los angeles, great western forum - december 30, 1993": "About A Girl - Live in Los Angeles, Great Western Forum - December 30, 1993",
@@ -830,6 +858,7 @@
         "Obvious": "obvious"
     },
     "olivia rodrigo": {
+        "Drop Dead": "drop dead",
         "Guts": "GUTS",
         "yOu SeEm PrEtTy SaD fOr A gIrL sO iN lOvE": "you seem pretty sad for a girl so in love"
     },
@@ -967,6 +996,9 @@
         "EVERYTHING TO EVERYONE": "Everything To Everyone",
         "EVERYTHING TO EVERYONE (Deluxe)": "Everything To Everyone (Deluxe)"
     },
+    "river": {
+        "solo": "Solo"
+    },
     "robbie nevil": {
         "The Best Of Robbie Neville": "The Best Of Robbie Nevil"
     },
@@ -996,6 +1028,9 @@
     },
     "sidewalks and skeletons": {
         "goth (slowed + reverb)": "Goth (Slowed + Reverb)"
+    },
+    "slayyyter": {
+        "bRokE BitCH fRee$TyLE - sINgLe": "BROKE BITCH FREE$TYLE - Single"
     },
     "slipknot": {
         "(Sic)": "(sic)",
@@ -1371,6 +1406,13 @@
     },
     "veggietales": {
         "we are the grapes of wrath": "We Are The Grapes of Wrath"
+    },
+    "violent soho": {
+        "How To Taste": "How to Taste",
+        "In The Aisle": "In the Aisle",
+        "Love Is A Heavy Word": "Love Is a Heavy Word",
+        "Lying On The Floor": "Lying on the Floor",
+        "Pick It up Again": "Pick It Up Again"
     },
     "vivid bad squad": {
         "Beyond the Way (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)": "Beyond the way (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)"
