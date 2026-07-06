@@ -1,6 +1,6 @@
 {
     "name": "@yuzu/lotus",
-    "version": "2026.76.2",
-    "license": "GPL-3.0",
+    "description": "a repository of capitalisation corrections for last.fm projects",
+    "version": "2026.76.3",
     "exports": "./index.d.ts"
 }
