@@ -1,0 +1,17 @@
+{
+  "name": "@tealmiku/lotus",
+  "version": "2026.76.0",
+  "description": "lotus is a repository of capitalisation corrections powering my two last.fm projects, [bleh](https://bleh.katelyn.moe) and [bwaa](https://katelyn.moe/bwaa).",
+  "homepage": "https://github.com/katelyynn/lotus#readme",
+  "bugs": {
+    "url": "https://github.com/katelyynn/lotus/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katelyynn/lotus.git"
+  },
+  "license": "GPL-3.0",
+  "author": "katelyn",
+  "type": "module",
+  "main": "index.js"
+}
