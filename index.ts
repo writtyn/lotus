@@ -1,8 +1,8 @@
-import album_track from './album_track.json';
-import artist from './artist.json';
-import combined_artists from './combined_artists.json';
-import redirects from './redirects.json';
-import romanised_artists from './romanised_artists.json';
+import album_track from './album_track.json' assert { type: 'json' };
+import artist from './artist.json' assert { type: 'json' };
+import combined_artists from './combined_artists.json' assert { type: 'json' };
+import redirects from './redirects.json' assert { type: 'json' };
+import romanised_artists from './romanised_artists.json' assert { type: 'json' };
 
 interface album_track {
     version: string,
