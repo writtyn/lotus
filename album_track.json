@@ -1,5 +1,5 @@
 {
-    "version": "2026.0807",
+    "version": "2026.0820",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -485,6 +485,9 @@
         "veni vidi vici": "Veni Vidi Vici",
         "we don't leave the house": "We Don't Leave the House",
         "y’all": "Y’all"
+    },
+    "glaive, kurtains": {
+        "God save the Three": "God Save The Three"
     },
     "glass beach": {
         "Rare Animal": "rare animal"
@@ -1214,7 +1217,12 @@
         "goth (slowed + reverb)": "Goth (Slowed + Reverb)"
     },
     "slayr": {
-        "Avant Nova": "AVANT NOVA"
+        "Avant Nova": "AVANT NOVA",
+		"Raise My Voice": "raise my voice",
+		"I Got Taste": "i got taste",
+		"Nova": "nova",
+		"Keep Me Going (BIRDBRAIN)": "keep me going (BIRDBRAIN)",
+		"Keep Me Going (Birdbrain)": "keep me going (BIRDBRAIN)"
     },
     "slayyyter": {
 		"BRAND NEW CHANEL$": "brand new chanel$",
@@ -1323,6 +1331,9 @@
         "Pop Team Epic": "POP TEAM EPIC"
     },
     "swans": {
+        "A Little God In My Hands": "A Little God in My Hands",
+        "Bring the Sun / Toussaint l'ouverture": "Bring the Sun / Toussaint L'Ouverture",
+        "Just A Little Boy (for Chester Burnett)": "Just a Little Boy (For Chester Burnett)",
         "No More Of This": "No More of This"
     },
     "syd barrett": {
